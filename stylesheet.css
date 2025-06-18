@@ -1,0 +1,184 @@
+html {
+    font-size: 24px;
+}
+
+body {
+width: 860px;
+margin: 0 auto;
+}
+
+
+p {
+font-family:'Source Han Serif CN';
+font-weight: 300;
+padding: 20px 40px;
+background: #f8f8f8;
+color: #000000;
+line-height: 2;
+text-indent: 0;
+}
+
+.bodycontent {
+    display: block;
+    letter-spacing: auto;
+    line-height: 2;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10pt;
+    text-align: justify;
+    text-indent: 0;
+    }
+
+.a {
+  color: #000;
+}
+.block {
+  display: block;
+  font-family: "STKaiti";
+  font-size: 0.83333em;
+  line-height: 150%;
+  text-indent: 2em;
+  margin: 0 0 0 2em;
+}
+.body-image-alone {
+  font-size: 1em;
+  height: auto;
+  margin-bootom: 0.2em;
+  width: 100%;
+}
+.calibre {
+  display: block;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+}
+.calibre1 {
+  display: block;
+  line-height: 2;
+  text-indent: 2em;
+  margin: 0;
+}
+.calibre2 {
+  height: auto;
+  width: auto;
+}
+.calibre3 {
+  color: #C3566C;
+  display: block;
+  font-family: "SimHei";
+  font-size: 1.29167em;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-left: 0.5em;
+  text-align: left;
+  width: 15em;
+  margin: 1em 0;
+  border-bottom: #C3566C solid 3px;
+}
+.calibre4 {
+  font-size: 0.75em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre5 {
+  color: gray;
+  display: block;
+  height: 2px;
+  margin: 0.5em auto;
+  border: currentColor inset 1px;
+}
+.calibre6 {
+  display: block;
+  font-family: "SimSun";
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  margin: 1em 0;
+}
+.calibre7 {
+  display: block;
+}
+.calibre8 {
+  font-weight: bold;
+}
+.calibre9 {
+  font-size: 0.9em;
+  line-height: normal;
+  vertical-align: super;
+}
+.calibre10 {
+  line-height: 1.2;
+}
+.calibre11 {
+  font-size: 1em;
+  line-height: 1.2;
+  vertical-align: super;
+}
+.center {
+  display: block;
+  line-height: 150%;
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0%;
+}
+.cp {
+  display: block;
+  font-family: "SimHei";
+  font-size: 1.66667em;
+  font-weight: normal;
+  line-height: 150%;
+  text-align: center;
+  text-indent: 0;
+  margin: 1em 0 1.5em;
+}
+.i {
+  display: list-item;
+  font-weight: normal;
+  margin-top: 0.5em;
+}
+.list {
+  display: block;
+  font-family: "SimHei";
+  font-size: 1em;
+  list-style-type: disc;
+  margin-bottom: 1em;
+  margin-right: 0;
+  margin-top: 1em;
+}
+.note {
+  display: block;
+  font-size: 0.83333em;
+  line-height: 150%;
+  text-indent: 2em;
+  margin: 0;
+}
+.reference {
+  color: #C3566C;
+  display: block;
+  font-family: "SimSun";
+  font-weight: bold;
+  line-height: 150%;
+  padding-bottom: 0.5em;
+  text-align: center;
+  text-indent: 0;
+  width: 10em;
+  margin: 1.5em auto 2.5em;
+  border-bottom: #C3566C dashed 1.5px;
+}
+.right {
+  display: block;
+  font-family: "STKaiti";
+  font-size: 0.83333em;
+  line-height: 150%;
+  text-align: right;
+  text-indent: 2em;
+  margin: 0.5em 0% 0;
+}
+.yiwen-image-single {
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  width: 80%;
+  margin: 0.2em auto 1.2em;
+}

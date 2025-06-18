@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="623b63f0-3f63-4b7a-9405-25364bdf4231"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.25.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>九三年</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="OPS/front001.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2" class="chapter">
+      <navLabel>
+        <text>译本序</text>
+      </navLabel>
+      <content src="OPS/front002.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3" class="chapter">
+      <navLabel>
+        <text>第一部 在海上</text>
+      </navLabel>
+      <content src="OPS/chapter001.html"/>
+      <navPoint id="navPoint-4" playOrder="4" class="chapter">
+        <navLabel>
+          <text>第一卷 索德雷树林</text>
+        </navLabel>
+        <content src="OPS/chapter001-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5" class="chapter">
+        <navLabel>
+          <text>第二卷 克莱莫尔号军舰</text>
+        </navLabel>
+        <content src="OPS/chapter002.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6" class="chapter">
+        <navLabel>
+          <text>第三卷 阿尔马洛</text>
+        </navLabel>
+        <content src="OPS/chapter003.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7" class="chapter">
+        <navLabel>
+          <text>第四卷 泰尔马克</text>
+        </navLabel>
+        <content src="OPS/chapter004.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8" class="chapter">
+      <navLabel>
+        <text>第二部 在巴黎</text>
+      </navLabel>
+      <content src="OPS/chapter005.html"/>
+      <navPoint id="navPoint-9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>第一卷 西穆尔丹</text>
+        </navLabel>
+        <content src="OPS/chapter005-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10" class="chapter">
+        <navLabel>
+          <text>第二卷 孔雀街的小酒馆</text>
+        </navLabel>
+        <content src="OPS/chapter006.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>第三卷 国民公会</text>
+        </navLabel>
+        <content src="OPS/chapter007.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12" class="chapter">
+      <navLabel>
+        <text>第三部 在旺代</text>
+      </navLabel>
+      <content src="OPS/chapter008.html"/>
+      <navPoint id="navPoint-13" playOrder="13" class="chapter">
+        <navLabel>
+          <text>第一卷 旺代</text>
+        </navLabel>
+        <content src="OPS/chapter008-1.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14" class="chapter">
+        <navLabel>
+          <text>第二卷 三个孩子</text>
+        </navLabel>
+        <content src="OPS/chapter009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15" class="chapter">
+        <navLabel>
+          <text>第三卷 圣巴托罗缪的屠杀</text>
+        </navLabel>
+        <content src="OPS/chapter010.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16" class="chapter">
+        <navLabel>
+          <text>第四卷 母亲</text>
+        </navLabel>
+        <content src="OPS/chapter011.html"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>第五卷 IN DÆMONE DEUS</text>
+        </navLabel>
+        <content src="OPS/chapter012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18" class="chapter">
+        <navLabel>
+          <text>第六卷 胜利之后的斗争</text>
+        </navLabel>
+        <content src="OPS/chapter013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19" class="chapter">
+        <navLabel>
+          <text>第七卷 封建与革命</text>
+        </navLabel>
+        <content src="OPS/chapter014.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

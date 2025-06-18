@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>zh</dc:language>
+    <dc:title>九三年</dc:title>
+    <dc:creator opf:file-as="【法】雨果" opf:role="aut">【法】雨果</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.25.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>上海译文出版社</dc:publisher>
+    <dc:identifier opf:scheme="ISBN">9787532752621</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">623b63f0-3f63-4b7a-9405-25364bdf4231</dc:identifier>
+    <dc:identifier opf:scheme="calibre">623b63f0-3f63-4b7a-9405-25364bdf4231</dc:identifier>
+    <dc:date>2010-12-14T16:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2025-06-18T01:54:05.441632+00:00"/>
+    <meta name="calibre:title_sort" content="九三年"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coverpage" href="OPS/coverpage.html" media-type="application/xhtml+xml"/>
+    <item id="front001" href="OPS/front001.html" media-type="application/xhtml+xml"/>
+    <item id="front002" href="OPS/front002.html" media-type="application/xhtml+xml"/>
+    <item id="chapter001" href="OPS/chapter001.html" media-type="application/xhtml+xml"/>
+    <item id="chapter001-1" href="OPS/chapter001-1.html" media-type="application/xhtml+xml"/>
+    <item id="chapter002" href="OPS/chapter002.html" media-type="application/xhtml+xml"/>
+    <item id="chapter003" href="OPS/chapter003.html" media-type="application/xhtml+xml"/>
+    <item id="chapter004" href="OPS/chapter004.html" media-type="application/xhtml+xml"/>
+    <item id="chapter005" href="OPS/chapter005.html" media-type="application/xhtml+xml"/>
+    <item id="chapter005-1" href="OPS/chapter005-1.html" media-type="application/xhtml+xml"/>
+    <item id="chapter006" href="OPS/chapter006.html" media-type="application/xhtml+xml"/>
+    <item id="chapter007" href="OPS/chapter007.html" media-type="application/xhtml+xml"/>
+    <item id="chapter008" href="OPS/chapter008.html" media-type="application/xhtml+xml"/>
+    <item id="chapter008-1" href="OPS/chapter008-1.html" media-type="application/xhtml+xml"/>
+    <item id="chapter009" href="OPS/chapter009.html" media-type="application/xhtml+xml"/>
+    <item id="chapter010" href="OPS/chapter010.html" media-type="application/xhtml+xml"/>
+    <item id="chapter011" href="OPS/chapter011.html" media-type="application/xhtml+xml"/>
+    <item id="chapter012" href="OPS/chapter012.html" media-type="application/xhtml+xml"/>
+    <item id="chapter013" href="OPS/chapter013.html" media-type="application/xhtml+xml"/>
+    <item id="chapter014" href="OPS/chapter014.html" media-type="application/xhtml+xml"/>
+    <item id="uBehpLbiHRHzzqCeyP8HcK8" href="OPS/Cover.jpg" media-type="image/jpeg"/>
+    <item id="image020" href="OPS/image/image020.jpg" media-type="image/jpeg"/>
+    <item id="image023" href="OPS/image/image023.jpg" media-type="image/jpeg"/>
+    <item id="image061" href="OPS/image/image061.jpg" media-type="image/jpeg"/>
+    <item id="image074" href="OPS/image/image074.jpg" media-type="image/jpeg"/>
+    <item id="image098" href="OPS/image/image098.jpg" media-type="image/jpeg"/>
+    <item id="image111" href="OPS/image/image111.jpg" media-type="image/jpeg"/>
+    <item id="image128" href="OPS/image/image128.jpg" media-type="image/jpeg"/>
+    <item id="image141" href="OPS/image/image141.jpg" media-type="image/jpeg"/>
+    <item id="image146" href="OPS/image/image146.jpg" media-type="image/jpeg"/>
+    <item id="image178" href="OPS/image/image178.jpg" media-type="image/jpeg"/>
+    <item id="image214" href="OPS/image/image214.jpg" media-type="image/jpeg"/>
+    <item id="image239" href="OPS/image/image239.jpg" media-type="image/jpeg"/>
+    <item id="image273" href="OPS/image/image273.jpg" media-type="image/jpeg"/>
+    <item id="image301" href="OPS/image/image301.jpg" media-type="image/jpeg"/>
+    <item id="image313" href="OPS/image/image313.jpg" media-type="image/jpeg"/>
+    <item id="image415" href="OPS/image/image415.jpg" media-type="image/jpeg"/>
+    <item id="image432" href="OPS/image/image432.jpg" media-type="image/jpeg"/>
+    <item id="Part01" href="OPS/image/Part01.jpg" media-type="image/jpeg"/>
+    <item id="Part02" href="OPS/image/Part02.jpg" media-type="image/jpeg"/>
+    <item id="Part03" href="OPS/image/Part03.jpg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="coverpage"/>
+    <itemref idref="front001"/>
+    <itemref idref="front002"/>
+    <itemref idref="chapter001"/>
+    <itemref idref="chapter001-1"/>
+    <itemref idref="chapter002"/>
+    <itemref idref="chapter003"/>
+    <itemref idref="chapter004"/>
+    <itemref idref="chapter005"/>
+    <itemref idref="chapter005-1"/>
+    <itemref idref="chapter006"/>
+    <itemref idref="chapter007"/>
+    <itemref idref="chapter008"/>
+    <itemref idref="chapter008-1"/>
+    <itemref idref="chapter009"/>
+    <itemref idref="chapter010"/>
+    <itemref idref="chapter011"/>
+    <itemref idref="chapter012"/>
+    <itemref idref="chapter013"/>
+    <itemref idref="chapter014"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>
